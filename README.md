@@ -1,4 +1,4 @@
-# Udacity 'Investigate A Dataset' Project
+# 'Investigate A Dataset' with Python Project
 ## Baseball Data Analysis
 
 ### Objective:
