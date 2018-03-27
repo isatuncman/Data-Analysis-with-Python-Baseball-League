@@ -1,4 +1,4 @@
-# 'Investigate A Dataset' with Python Project
+# 'Investigate A Dataset with Python' Project
 ## Baseball Data Analysis
 
 ### Objective:
